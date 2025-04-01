@@ -1,2 +1,2 @@
 # secretcode
-Simple client-server appication
+есть проблемы с логированием :(
